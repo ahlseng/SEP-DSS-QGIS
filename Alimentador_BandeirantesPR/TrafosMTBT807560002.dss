@@ -1,0 +1,368 @@
+New Transformer.1_360296650_UB phases=3 windings=2 buses=(MT2135.1.2.3 BT2148.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.2_360296672_UB phases=3 windings=2 buses=(MT8.1.2.3 BT2149.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.3_360296702_UB phases=3 windings=2 buses=(MT17.1.2.3 BT2150.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.4_360296716_UB phases=3 windings=2 buses=(MT1145.1.2.3 BT2151.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.5_360296755_UB phases=3 windings=2 buses=(MT39.1.2.3 BT2152.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.6_360296766_UB phases=3 windings=2 buses=(MT1988.1.2.3 BT2153.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.7_360296783_UB phases=3 windings=2 buses=(MT44.1.2.3 BT2154.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.9_360296814_UB phases=3 windings=2 buses=(MT49.1.2.3 BT2156.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.10_360296842_UB phases=3 windings=2 buses=(MT59.1.2.3 BT2157.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.11_360296864_UB phases=3 windings=2 buses=(MT64.1.2.3 BT2158.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.12_360296875_UB phases=3 windings=2 buses=(MT1928.1.2.3 BT2159.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.13_360296884_UB phases=3 windings=2 buses=(MT62.1.2.3 BT2160.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.14_360296895_UB phases=3 windings=2 buses=(MT65.1.2.3 BT2161.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.15_360296928_UB phases=3 windings=2 buses=(MT75.1.2.3 BT2162.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.18_360296973_UB phases=3 windings=2 buses=(MT1184.1.2.3 BT2165.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.19_360297001_UB phases=3 windings=2 buses=(MT85.1.2.3 BT2166.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.20_360297020_UB phases=3 windings=2 buses=(MT88.1.2.3 BT2167.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.22_360297089_UB phases=3 windings=2 buses=(MT102.1.2.3 BT2169.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.23_360297106_UB phases=3 windings=2 buses=(MT107.1.2.3 BT2170.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.24_360297155_UB phases=1 windings=3 buses=(MT124.3.1 BT2171.1.0  BT2171.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.25_360297165_UB phases=1 windings=3 buses=(MT125.3.1 BT2172.1.0  BT2172.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.27_360297183_UB phases=3 windings=2 buses=(MT121.1.2.3 BT2174.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.29_360297221_NU phases=3 windings=2 buses=(MT131.1.2.3 BT2176.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.30_360297247_NU phases=3 windings=2 buses=(MT1721.1.2.3 BT2177.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.31_360297280_NU phases=3 windings=2 buses=(MT139.1.2.3 BT2178.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.32_360297357_NU phases=3 windings=2 buses=(MT148.1.2.3 BT2179.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.33_360297375_NU phases=1 windings=3 buses=(MT1756.3.1 BT2180.1.0  BT2180.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.34_360297407_NU phases=1 windings=3 buses=(MT1750.3.1 BT2181.1.0  BT2181.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.35_360297416_NU phases=1 windings=3 buses=(MT1746.3.1 BT2182.1.0  BT2182.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.36_360297425_NU phases=3 windings=2 buses=(MT151.1.2.3 BT2183.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.37_360297475_NU phases=3 windings=2 buses=(MT159.1.2.3 BT2184.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.38_360297524_NU phases=3 windings=2 buses=(MT1794.1.2.3 BT2185.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.39_360297545_NU phases=3 windings=2 buses=(MT1801.1.2.3 BT2186.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(20 20) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.40_360297562_NU phases=3 windings=2 buses=(MT1804.1.2.3 BT2187.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(20 20) Taps=[1.0  1]  %loadloss=2.085 %noloadloss=0.735
+New Transformer.41_360297576_NU phases=3 windings=2 buses=(MT170.1.2.3 BT2188.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.42_360297594_NU phases=3 windings=2 buses=(MT172.1.2.3 BT2189.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(50 50) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.43_360297683_NU phases=3 windings=2 buses=(MT190.1.2.3 BT2190.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.44_360297711_NU phases=1 windings=3 buses=(MT193.3.1 BT2191.1.0  BT2191.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.45_360297722_NU phases=1 windings=3 buses=(MT194.3.1 BT2192.1.0  BT2192.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.46_360297752_NU phases=1 windings=3 buses=(MT198.3.1 BT2193.1.0  BT2193.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(3 3 3) Taps=[1.0  1  1]  %loadloss=2.5 %noloadloss=1.3333
+New Transformer.47_360297764_NU phases=1 windings=3 buses=(MT200.3.1 BT2194.1.0  BT2194.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.48_360297818_NU phases=1 windings=3 buses=(MT212.3.1 BT2195.1.0  BT2195.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.49_360297834_NU phases=1 windings=3 buses=(MT214.3.1 BT2196.1.0  BT2196.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.50_360297845_NU phases=1 windings=3 buses=(MT215.3.1 BT2197.1.0  BT2197.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.51_360297863_NU phases=1 windings=3 buses=(MT205.3.1 BT2198.1.0  BT2198.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.52_360297875_NU phases=3 windings=2 buses=(MT1684.1.2.3 BT2199.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(25 25) Taps=[1.0  1]  %loadloss=1.668 %noloadloss=0.588
+New Transformer.53_360297887_NU phases=3 windings=2 buses=(MT217.1.2.3 BT2200.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(25 25) Taps=[1.0  1]  %loadloss=1.668 %noloadloss=0.588
+New Transformer.54_360297903_NU phases=1 windings=3 buses=(MT220.3.1 BT2201.1.0  BT2201.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.55_360297926_NU phases=1 windings=3 buses=(MT224.3.1 BT2202.1.0  BT2202.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.56_360297937_NU phases=1 windings=3 buses=(MT225.3.1 BT2203.1.0  BT2203.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.57_360297949_NU phases=1 windings=3 buses=(MT1679.3.1 BT2204.1.0  BT2204.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.58_360297961_NU phases=1 windings=3 buses=(MT227.3.1 BT2205.1.0  BT2205.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.59_360297998_NU phases=1 windings=3 buses=(MT232.3.1 BT2206.1.0  BT2206.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.60_360298007_NU phases=1 windings=3 buses=(MT231.3.1 BT2207.1.0  BT2207.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.61_360298071_NU phases=1 windings=3 buses=(MT243.3.1 BT2208.1.0  BT2208.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.62_360298107_NU phases=1 windings=3 buses=(MT247.3.1 BT2209.1.0  BT2209.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.63_360298127_NU phases=1 windings=3 buses=(MT236.3.1 BT2210.1.0  BT2210.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.64_360298136_NU phases=1 windings=3 buses=(MT235.3.1 BT2211.1.0  BT2211.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.65_360298147_NU phases=1 windings=3 buses=(MT250.3.1 BT2212.1.0  BT2212.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.66_360298160_NU phases=1 windings=3 buses=(MT1664.3.1 BT2213.1.0  BT2213.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.67_360298207_NU phases=1 windings=3 buses=(MT261.3.1 BT2214.1.0  BT2214.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.68_360298216_NU phases=1 windings=3 buses=(MT258.3.1 BT2215.1.0  BT2215.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.69_360298244_NU phases=1 windings=3 buses=(MT262.3.1 BT2216.1.0  BT2216.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.70_360298253_NU phases=1 windings=3 buses=(MT255.3.1 BT2217.1.0  BT2217.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.71_360298262_NU phases=1 windings=3 buses=(MT254.3.1 BT2218.1.0  BT2218.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.72_360298282_NU phases=1 windings=3 buses=(MT1642.3.1 BT2219.1.0  BT2219.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.73_360298291_NU phases=1 windings=3 buses=(MT265.3.1 BT2220.1.0  BT2220.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.74_360298386_NU phases=1 windings=3 buses=(MT280.3.1 BT2221.1.0  BT2221.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.75_360298411_NU phases=1 windings=3 buses=(MT285.3.1 BT2222.1.0  BT2222.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.76_360298420_NU phases=1 windings=3 buses=(MT283.3.1 BT2223.1.0  BT2223.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.77_360298445_NU phases=1 windings=3 buses=(MT292.3.1 BT2224.1.0  BT2224.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.79_360298463_NU phases=1 windings=3 buses=(MT287.3.1 BT2226.1.0  BT2226.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.81_360298483_NU phases=1 windings=3 buses=(MT293.3.1 BT2228.1.0  BT2228.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.82_360298492_NU phases=1 windings=3 buses=(MT269.3.1 BT2229.1.0  BT2229.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.83_360298503_NU phases=1 windings=3 buses=(MT295.3.1 BT2230.1.0  BT2230.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.85_360298529_NU phases=1 windings=3 buses=(MT298.3.1 BT2232.1.0  BT2232.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.84_360298520_NU phases=1 windings=3 buses=(MT296.3.1 BT2231.1.0  BT2231.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.86_360298574_NU phases=1 windings=3 buses=(MT1907.3.1 BT2233.1.0  BT2233.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.87_360298585_NU phases=1 windings=3 buses=(MT307.3.1 BT2234.1.0  BT2234.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.88_360298593_NU phases=1 windings=3 buses=(MT1640.3.1 BT2235.1.0  BT2235.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.89_360298602_NU phases=1 windings=3 buses=(MT302.3.1 BT2236.1.0  BT2236.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.91_360298645_NU phases=3 windings=2 buses=(MT311.1.2.3 BT2238.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.92_360298665_NU phases=3 windings=2 buses=(MT316.1.2.3 BT2239.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.94_360298754_NU phases=1 windings=3 buses=(MT1712.3.1 BT2241.1.0  BT2241.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.95_360298763_NU phases=3 windings=2 buses=(MT326.1.2.3 BT2242.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(20 20) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.96_360298772_NU phases=1 windings=3 buses=(MT1708.2.3 BT2243.1.0  BT2243.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.97_360298781_NU phases=1 windings=3 buses=(MT325.3.1 BT2244.1.0  BT2244.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.98_360298790_NU phases=1 windings=3 buses=(MT322.3.1 BT2245.1.0  BT2245.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.99_360298799_NU phases=3 windings=2 buses=(MT182.1.2.3 BT2246.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.100_360298856_NU phases=1 windings=3 buses=(MT1741.3.1 BT2247.1.0  BT2247.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.101_360298872_NU phases=1 windings=3 buses=(MT336.3.1 BT2248.1.0  BT2248.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.102_360298881_NU phases=1 windings=3 buses=(MT329.3.1 BT2249.1.0  BT2249.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.103_360298890_NU phases=1 windings=3 buses=(MT1731.3.1 BT2250.1.0  BT2250.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.104_360298925_NU phases=3 windings=2 buses=(MT339.1.2.3 BT2251.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.105_360298961_NU phases=3 windings=2 buses=(MT1823.1.2.3 BT2252.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(20 20) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.106_360299012_NU phases=1 windings=3 buses=(MT1827.3.1 BT2253.1.0  BT2253.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.107_360299098_NU phases=3 windings=2 buses=(MT364.1.2.3 BT2254.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.108_360299115_NU phases=1 windings=3 buses=(MT369.3.1 BT2255.1.0  BT2255.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.110_360299152_NU phases=1 windings=3 buses=(MT1856.3.1 BT2257.1.0  BT2257.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.111_360299179_NU phases=3 windings=2 buses=(MT381.1.2.3 BT2258.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.113_360299217_NU phases=3 windings=2 buses=(MT1859.1.2.3 BT2260.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.114_360299238_NU phases=3 windings=2 buses=(MT391.1.2.3 BT2261.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.115_360299280_NU phases=3 windings=2 buses=(MT1588.1.2.3 BT2262.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.116_360299318_NU phases=3 windings=2 buses=(MT409.1.2.3 BT2263.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.117_360299354_NU phases=1 windings=3 buses=(MT416.3.1 BT2264.1.0  BT2264.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.118_360299382_NU phases=3 windings=2 buses=(MT421.1.2.3 BT2265.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.119_360299426_NU phases=3 windings=2 buses=(MT430.1.2.3 BT2266.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.120_360299472_NU phases=1 windings=3 buses=(MT1582.3.1 BT2267.1.0  BT2267.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.121_360299489_NU phases=3 windings=2 buses=(MT438.1.2.3 BT2268.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.122_360299553_NU phases=3 windings=2 buses=(MT447.1.2.3 BT2269.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.123_360299569_NU phases=3 windings=2 buses=(MT1885.1.2.3 BT2270.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.124_360299605_NU phases=3 windings=2 buses=(MT456.1.2.3 BT2271.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.125_360299636_NU phases=3 windings=2 buses=(MT413.1.2.3 BT2272.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.126_360299680_NU phases=1 windings=3 buses=(MT464.3.1 BT2273.1.0  BT2273.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.127_360299703_NU phases=3 windings=2 buses=(MT1814.1.2.3 BT2274.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.128_360299742_NU phases=3 windings=2 buses=(MT478.1.2.3 BT2275.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.129_360299759_NU phases=3 windings=2 buses=(MT482.1.2.3 BT2276.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.130_360299828_NU phases=3 windings=2 buses=(MT491.1.2.3 BT2277.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.131_360299898_NU phases=3 windings=2 buses=(MT1880.1.2.3 BT2278.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.132_360299942_NU phases=1 windings=3 buses=(MT1846.3.1 BT2279.1.0  BT2279.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.133_360300014_NU phases=1 windings=3 buses=(MT534.3.1 BT2280.1.0  BT2280.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.134_360300064_NU phases=1 windings=3 buses=(MT547.3.1 BT2281.1.0  BT2281.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.135_360300079_NU phases=1 windings=3 buses=(MT549.3.1 BT2282.1.0  BT2282.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.136_360300123_NU phases=1 windings=3 buses=(MT561.3.1 BT2283.1.0  BT2283.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.137_360300132_NU phases=1 windings=3 buses=(MT557.3.1 BT2284.1.0  BT2284.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.138_360300141_NU phases=1 windings=3 buses=(MT544.3.1 BT2285.1.0  BT2285.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.140_360300188_NU phases=1 windings=3 buses=(MT566.3.1 BT2287.1.0  BT2287.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.141_360300203_NU phases=1 windings=3 buses=(MT568.3.1 BT2288.1.0  BT2288.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.142_360300232_NU phases=1 windings=3 buses=(MT1889.3.1 BT2289.1.0  BT2289.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.143_360300241_NU phases=1 windings=3 buses=(MT572.3.1 BT2290.1.0  BT2290.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.145_360300326_NU phases=1 windings=3 buses=(MT1325.3.1 BT2292.1.0  BT2292.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.147_360300344_NU phases=1 windings=3 buses=(MT593.3.1 BT2294.1.0  BT2294.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.148_360300353_NU phases=3 windings=2 buses=(MT586.1.2.3 BT2295.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.149_360300362_NU phases=3 windings=2 buses=(MT1532.1.2.3 BT2296.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.151_360300427_NU phases=1 windings=3 buses=(MT1867.3.1 BT2298.1.0  BT2298.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.152_360300436_NU phases=1 windings=3 buses=(MT608.3.1 BT2299.1.0  BT2299.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.153_360300471_NU phases=1 windings=3 buses=(MT617.3.1 BT2300.1.0  BT2300.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.154_360300479_NU phases=1 windings=3 buses=(MT616.3.1 BT2301.1.0  BT2301.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.155_360300489_NU phases=1 windings=3 buses=(MT618.3.1 BT2302.1.0  BT2302.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.157_360300545_NU phases=1 windings=3 buses=(MT1866.3.1 BT2304.1.0  BT2304.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.158_360300554_NU phases=1 windings=3 buses=(MT620.3.1 BT2305.1.0  BT2305.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.159_360300590_NU phases=1 windings=3 buses=(MT1863.3.1 BT2306.1.0  BT2306.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.160_360300601_NU phases=1 windings=3 buses=(MT635.3.1 BT2307.1.0  BT2307.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.161_360300621_NU phases=1 windings=3 buses=(MT636.3.1 BT2308.1.0  BT2308.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.162_360300632_NU phases=1 windings=3 buses=(MT637.3.1 BT2309.1.0  BT2309.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.163_360300641_NU phases=1 windings=3 buses=(MT599.3.1 BT2310.1.0  BT2310.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.165_360300678_NU phases=1 windings=3 buses=(MT641.3.1 BT2312.1.0  BT2312.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.166_360300707_NU phases=1 windings=3 buses=(MT650.3.1 BT2313.1.0  BT2313.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.167_360300727_NU phases=1 windings=3 buses=(MT654.3.1 BT2314.1.0  BT2314.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.168_360300743_NU phases=1 windings=3 buses=(MT657.3.1 BT2315.1.0  BT2315.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.169_360300759_NU phases=1 windings=3 buses=(MT660.3.1 BT2316.1.0  BT2316.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.170_360300774_NU phases=1 windings=3 buses=(MT662.3.1 BT2317.1.0  BT2317.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.171_360300789_NU phases=1 windings=3 buses=(MT664.3.1 BT2318.1.0  BT2318.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.172_360300798_NU phases=1 windings=3 buses=(MT646.3.1 BT2319.1.0  BT2319.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.173_360300807_NU phases=3 windings=2 buses=(MT519.1.2.3 BT2320.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.174_360300825_NU phases=3 windings=2 buses=(MT511.1.2.3 BT2321.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.175_360300834_NU phases=3 windings=2 buses=(MT508.1.2.3 BT2322.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.176_360300843_NU phases=3 windings=2 buses=(MT506.1.2.3 BT2323.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.177_360300852_NU phases=3 windings=2 buses=(MT498.1.2.3 BT2324.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.178_360300899_NU phases=3 windings=2 buses=(MT674.1.2.3 BT2325.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.179_360300918_NU phases=3 windings=2 buses=(MT1820.1.2.3 BT2326.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.180_360300974_NU phases=3 windings=2 buses=(MT689.1.2.3 BT2327.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.182_360301041_NU phases=3 windings=2 buses=(MT699.1.2.3 BT2329.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.184_360301124_NU phases=3 windings=2 buses=(MT720.1.2.3 BT2331.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(100 100) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.185_360301183_NU phases=1 windings=3 buses=(MT729.3.1 BT2332.1.0  BT2332.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.186_360301192_NU phases=3 windings=2 buses=(MT725.1.2.3 BT2333.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.187_360301252_NU phases=3 windings=2 buses=(MT741.1.2.3 BT2334.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.188_360301282_NU phases=3 windings=2 buses=(MT1608.1.2.3 BT2335.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.189_360301304_NU phases=3 windings=2 buses=(MT750.1.2.3 BT2336.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.190_360301335_NU phases=1 windings=3 buses=(MT1623.3.1 BT2337.1.0  BT2337.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.191_360301374_NU phases=3 windings=2 buses=(MT2107.1.2.3 BT2338.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.192_360301417_NU phases=3 windings=2 buses=(MT776.1.2.3 BT2339.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.193_360301428_NU phases=3 windings=2 buses=(MT1627.1.2.3 BT2340.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.194_360301459_NU phases=3 windings=2 buses=(MT1630.1.2.3 BT2341.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.195_360301501_UB phases=3 windings=2 buses=(MT1121.1.2.3 BT2342.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.196_360301512_UB phases=3 windings=2 buses=(MT1095.1.2.3 BT2343.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.197_360301521_UB phases=3 windings=2 buses=(MT794.1.2.3 BT2344.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=2.1667 %noloadloss=0.5667
+New Transformer.198_360301570_NU phases=3 windings=2 buses=(MT1906.1.2.3 BT2345.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.199_360301579_UB phases=3 windings=2 buses=(MT803.1.2.3 BT2346.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.200_360301624_NU phases=3 windings=2 buses=(MT816.1.2.3 BT2347.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.201_360301633_UB phases=3 windings=2 buses=(MT110.1.2.3 BT2348.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.202_360301648_UB phases=3 windings=2 buses=(MT1994.1.2.3 BT2349.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.203_360301665_UB phases=3 windings=2 buses=(MT821.1.2.3 BT2350.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.204_360301683_UB phases=3 windings=2 buses=(MT1178.1.2.3 BT2351.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.205_360301697_UB phases=3 windings=2 buses=(MT1070.1.2.3 BT2352.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.206_360301708_UB phases=3 windings=2 buses=(MT829.1.2.3 BT2353.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.207_360301722_UB phases=3 windings=2 buses=(MT833.1.2.3 BT2354.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.208_360301736_UB phases=3 windings=2 buses=(MT836.1.2.3 BT2355.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.209_360301750_UB phases=3 windings=2 buses=(MT840.1.2.3 BT2356.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.210_360301761_UB phases=3 windings=2 buses=(MT842.1.2.3 BT2357.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.211_360301784_UB phases=3 windings=2 buses=(MT1058.1.2.3 BT2358.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.212_360301835_UB phases=3 windings=2 buses=(MT1033.1.2.3 BT2359.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.213_360301840_UB phases=3 windings=2 buses=(MT856.1.2.3 BT2360.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.214_360301860_UB phases=3 windings=2 buses=(MT867.1.2.3 BT2361.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.216_360301896_UB phases=3 windings=2 buses=(MT877.1.2.3 BT2363.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.217_360301907_UB phases=3 windings=2 buses=(MT878.1.2.3 BT2364.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.218_360301918_UB phases=3 windings=2 buses=(MT879.1.2.3 BT2365.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.219_360301929_UB phases=3 windings=2 buses=(MT1029.1.2.3 BT2366.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.220_360301940_UB phases=3 windings=2 buses=(MT1024.1.2.3 BT2367.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.221_360301962_UB phases=3 windings=2 buses=(MT885.1.2.3 BT2368.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.222_360301977_UB phases=3 windings=2 buses=(MT889.1.2.3 BT2369.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.223_360301991_UB phases=3 windings=2 buses=(MT1075.1.2.3 BT2370.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.224_360302006_UB phases=3 windings=2 buses=(MT1983.1.2.3 BT2371.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.225_360302020_UB phases=3 windings=2 buses=(MT895.1.2.3 BT2372.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.226_360302037_UB phases=3 windings=2 buses=(MT904.1.2.3 BT2373.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.227_360302052_UB phases=3 windings=2 buses=(MT907.1.2.3 BT2374.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.228_360302090_UB phases=3 windings=2 buses=(MT1929.1.2.3 BT2375.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.229_360302102_UB phases=3 windings=2 buses=(MT71.1.2.3 BT2376.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.230_360302130_UB phases=3 windings=2 buses=(MT923.1.2.3 BT2377.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.233_360302163_UB phases=3 windings=2 buses=(MT926.1.2.3 BT2380.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.234_360302174_UB phases=3 windings=2 buses=(MT928.1.2.3 BT2381.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.235_360302196_UB phases=3 windings=2 buses=(MT937.1.2.3 BT2382.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.236_360302204_UB phases=3 windings=2 buses=(MT932.1.2.3 BT2383.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.238_360302229_UB phases=3 windings=2 buses=(MT1196.1.2.3 BT2385.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.239_360302243_UB phases=3 windings=2 buses=(MT944.1.2.3 BT2386.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.241_360302274_UB phases=3 windings=2 buses=(MT951.1.2.3 BT2388.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.242_360302288_UB phases=3 windings=2 buses=(MT1204.1.2.3 BT2389.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.243_360302299_UB phases=3 windings=2 buses=(MT956.1.2.3 BT2390.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.244_360302310_UB phases=3 windings=2 buses=(MT957.1.2.3 BT2391.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.245_360302321_UB phases=3 windings=2 buses=(MT959.1.2.3 BT2392.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.246_360302330_UB phases=3 windings=2 buses=(MT32.1.2.3 BT2393.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.247_360302346_UB phases=3 windings=2 buses=(MT964.1.2.3 BT2394.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.248_360302358_UB phases=3 windings=2 buses=(MT965.1.2.3 BT2395.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.249_360302372_UB phases=3 windings=2 buses=(MT970.1.2.3 BT2396.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.250_360302384_UB phases=3 windings=2 buses=(MT28.1.2.3 BT2397.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.251_360302395_UB phases=3 windings=2 buses=(MT1585.1.2.3 BT2398.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.252_360302406_UB phases=3 windings=2 buses=(MT974.1.2.3 BT2399.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.253_360302719_UB phases=3 windings=2 buses=(MT11.1.2.3 BT2400.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.254_360302740_UB phases=3 windings=2 buses=(MT979.1.2.3 BT2401.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.255_360302751_UB phases=3 windings=2 buses=(MT981.1.2.3 BT2402.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.256_360303641_UB phases=3 windings=2 buses=(MT1992.1.2.3 BT2403.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.16_360296945_UB phases=3 windings=2 buses=(MT78.1.2.3 BT2163.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.342_581860654_UB phases=3 windings=2 buses=(MT91.1.2.3 BT2489.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.380_583581612_UB phases=3 windings=2 buses=(MT2051.1.2.3 BT2527.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.360_550892519_UB phases=3 windings=2 buses=(MT1112.1.2.3 BT2507.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.353_554156316_UB phases=3 windings=2 buses=(MT105.1.2.3 BT2500.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.344_935362323_UB phases=3 windings=2 buses=(MT2138.1.2.3 BT2491.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.323_373057084_UB phases=3 windings=2 buses=(MT839.1.2.3 BT2470.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.385_571921978_UB phases=3 windings=2 buses=(MT1952.1.2.3 BT2532.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.264_401920240_UB phases=3 windings=2 buses=(MT1030.1.2.3 BT2411.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.358_550734712_UB phases=3 windings=2 buses=(MT1312.1.2.3 BT2505.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.301_384603952_UB phases=3 windings=2 buses=(MT2045.1.2.3 BT2448.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.336_394303706_UB phases=3 windings=2 buses=(MT1085.1.2.3 BT2483.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.317_370415783_UB phases=3 windings=2 buses=(MT995.1.2.3 BT2464.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.310_881801881_UB phases=3 windings=2 buses=(MT2093.1.2.3 BT2457.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.237_360302215_UB phases=3 windings=2 buses=(MT939.1.2.3 BT2384.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=1.6372 %noloadloss=0.4292
+New Transformer.330_894169782_UB phases=3 windings=2 buses=(MT2105.1.2.3 BT2477.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.314_369838163_NU phases=1 windings=3 buses=(MT991.3.1 BT2461.1.0  BT2461.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.315_370349489_NU phases=1 windings=3 buses=(MT1909.3.1 BT2462.1.0  BT2462.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.316_370349494_NU phases=1 windings=3 buses=(MT993.3.1 BT2463.1.0  BT2463.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.28_360297212_NU phases=3 windings=2 buses=(MT998.1.2.3 BT2175.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=1.8167 %noloadloss=0.5
+New Transformer.318_370649568_UB phases=3 windings=2 buses=(MT1118.1.2.3 BT2465.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.319_370649573_UB phases=3 windings=2 buses=(MT1120.1.2.3 BT2466.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.320_370714107_NU phases=1 windings=3 buses=(MT1006.3.1 BT2467.1.0  BT2467.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.321_371237778_UB phases=3 windings=2 buses=(MT1012.1.2.3 BT2468.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.322_371836585_NU phases=3 windings=2 buses=(MT1839.1.2.3 BT2469.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.337_378079676_NU phases=1 windings=3 buses=(MT1020.3.1 BT2484.1.0  BT2484.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.268_381692731_NU phases=1 windings=3 buses=(MT1217.3.1 BT2415.1.0  BT2415.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.269_383318818_NU phases=1 windings=3 buses=(MT1222.3.1 BT2416.1.0  BT2416.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.270_383318919_NU phases=1 windings=3 buses=(MT1225.3.1 BT2417.1.0  BT2417.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.271_383319064_NU phases=1 windings=3 buses=(MT1227.3.1 BT2418.1.0  BT2418.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.272_383319079_NU phases=1 windings=3 buses=(MT1229.3.1 BT2419.1.0  BT2419.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.273_383319306_NU phases=1 windings=3 buses=(MT1232.3.1 BT2420.1.0  BT2420.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.275_383319596_NU phases=1 windings=3 buses=(MT1238.3.1 BT2422.1.0  BT2422.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.276_383319846_NU phases=1 windings=3 buses=(MT1241.3.1 BT2423.1.0  BT2423.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.277_383320203_NU phases=1 windings=3 buses=(MT1245.3.1 BT2424.1.0  BT2424.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.279_383320664_NU phases=1 windings=3 buses=(MT1251.3.1 BT2426.1.0  BT2426.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.280_383354647_NU phases=1 windings=3 buses=(MT1253.3.1 BT2427.1.0  BT2427.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.281_383354667_NU phases=1 windings=3 buses=(MT1255.3.1 BT2428.1.0  BT2428.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.282_383354763_NU phases=1 windings=3 buses=(MT1258.3.1 BT2429.1.0  BT2429.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.285_383355276_NU phases=1 windings=3 buses=(MT1268.3.1 BT2432.1.0  BT2432.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.286_383355388_NU phases=1 windings=3 buses=(MT1272.3.1 BT2433.1.0  BT2433.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.287_383355488_NU phases=1 windings=3 buses=(MT1273.3.1 BT2434.1.0  BT2434.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.288_383355495_NU phases=1 windings=3 buses=(MT1274.3.1 BT2435.1.0  BT2435.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.289_383355624_NU phases=1 windings=3 buses=(MT1601.3.1 BT2436.1.0  BT2436.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.290_383356595_NU phases=1 windings=3 buses=(MT1280.3.1 BT2437.1.0  BT2437.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.291_383356907_NU phases=1 windings=3 buses=(MT1284.3.1 BT2438.1.0  BT2438.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.292_383357327_NU phases=1 windings=3 buses=(MT1287.3.1 BT2439.1.0  BT2439.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.293_383357499_NU phases=1 windings=3 buses=(MT1290.3.1 BT2440.1.0  BT2440.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.294_383357661_NU phases=1 windings=3 buses=(MT1293.3.1 BT2441.1.0  BT2441.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.295_383358946_NU phases=1 windings=3 buses=(MT1297.3.1 BT2442.1.0  BT2442.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.296_383360973_NU phases=1 windings=3 buses=(MT1298.3.1 BT2443.1.0  BT2443.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.297_383361382_NU phases=1 windings=3 buses=(MT1300.3.1 BT2444.1.0  BT2444.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.298_383361389_NU phases=1 windings=3 buses=(MT1301.3.1 BT2445.1.0  BT2445.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.299_383361455_NU phases=1 windings=3 buses=(MT1595.3.1 BT2446.1.0  BT2446.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.300_383382436_NU phases=1 windings=3 buses=(MT1307.3.1 BT2447.1.0  BT2447.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.302_384962269_NU phases=1 windings=3 buses=(MT304.3.1 BT2449.1.0  BT2449.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.304_384964320_NU phases=1 windings=3 buses=(MT1311.3.1 BT2451.1.0  BT2451.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.181_360301024_NU phases=3 windings=2 buses=(MT1317.1.2.3 BT2328.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.331_386885346_NU phases=1 windings=3 buses=(MT1321.3.1 BT2478.1.0  BT2478.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.334_391141896_NU phases=3 windings=2 buses=(MT473.1.2.3 BT2481.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.335_392989138_NU phases=1 windings=3 buses=(MT2134.3.1 BT2482.1.0  BT2482.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.265_401988363_NU phases=1 windings=3 buses=(MT513.2.3 BT2412.1.0  BT2412.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.348_549322259_NU phases=3 windings=2 buses=(MT1333.1.2.3 BT2495.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.359_549613409_NU phases=1 windings=3 buses=(MT1337.3.1 BT2506.1.0  BT2506.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.356_550634335_NU phases=1 windings=3 buses=(MT300.3.1 BT2503.1.0  BT2503.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.350_552430217_NU phases=3 windings=2 buses=(MT132.1.2.3 BT2497.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.150_360300371_NU phases=1 windings=3 buses=(MT580.3.1 BT2297.1.0  BT2297.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.364_553386413_NU phases=1 windings=3 buses=(MT1704.3.1 BT2511.1.0  BT2511.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.365_553503813_NU phases=3 windings=2 buses=(MT1637.1.2.3 BT2512.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.351_554133388_NU phases=3 windings=2 buses=(MT1357.1.2.3 BT2498.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.352_554136161_UB phases=3 windings=2 buses=(MT1364.1.2.3 BT2499.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.354_554183724_NU phases=1 windings=3 buses=(MT1366.3.1 BT2501.1.0  BT2501.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.355_554276994_UB phases=3 windings=2 buses=(MT1369.1.2.3 BT2502.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.324_930191870_NU phases=1 windings=3 buses=(MT216.3.1 BT2471.1.0  BT2471.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.80_360298472_NU phases=1 windings=3 buses=(MT1371.3.1 BT2227.1.0  BT2227.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.232_360302152_UB phases=3 windings=2 buses=(MT66.1.2.3 BT2379.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.274_383319477_NU phases=1 windings=3 buses=(MT1235.3.1 BT2421.1.0  BT2421.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.284_383355049_NU phases=1 windings=3 buses=(MT1265.3.1 BT2431.1.0  BT2431.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.283_383354778_NU phases=1 windings=3 buses=(MT1260.3.1 BT2430.1.0  BT2430.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.93_360298700_NU phases=3 windings=2 buses=(MT2145.1.2.3 BT2240.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(30 30) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.363_562815308_NU phases=1 windings=3 buses=(MT1834.3.1 BT2510.1.0  BT2510.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.164_360300669_NU phases=1 windings=3 buses=(MT1844.3.1 BT2311.1.0  BT2311.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.384_563922144_NU phases=1 windings=3 buses=(MT1905.3.1 BT2531.1.0  BT2531.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.369_567149095_UB phases=3 windings=2 buses=(MT1926.1.2.3 BT2516.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.361_568633499_UB phases=3 windings=2 buses=(MT1935.1.2.3 BT2508.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.362_568633605_UB phases=3 windings=2 buses=(MT1946.1.2.3 BT2509.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.146_360300335_NU phases=1 windings=3 buses=(MT1949.3.1 BT2293.1.0  BT2293.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.386_572074358_UB phases=3 windings=2 buses=(MT1314.1.2.3 BT2533.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(113 113) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.389_565672494_UB phases=3 windings=2 buses=(MT1979.1.2.3 BT2536.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.370_573040386_UB phases=3 windings=2 buses=(MT1959.1.2.3 BT2517.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.371_573041586_UB phases=3 windings=2 buses=(MT1962.1.2.3 BT2518.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.372_573043085_UB phases=3 windings=2 buses=(MT1967.1.2.3 BT2519.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.373_573043926_UB phases=3 windings=2 buses=(MT1970.1.2.3 BT2520.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.374_573044258_UB phases=3 windings=2 buses=(MT1976.1.2.3 BT2521.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.261_574624570_NU phases=1 windings=3 buses=(MT1982.3.1 BT2408.1.0  BT2408.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.343_575658117_NU phases=1 windings=3 buses=(MT1987.1.2 BT2490.1.0  BT2490.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.345_578445340_NU phases=1 windings=3 buses=(MT2006.3.1 BT2492.1.0  BT2492.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.78_360298454_NU phases=1 windings=3 buses=(MT290.3.1 BT2225.1.0  BT2225.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.346_579553207_NU phases=1 windings=3 buses=(MT2021.3.1 BT2493.1.0  BT2493.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.341_581736306_NU phases=3 windings=2 buses=(MT2037.1.2.3 BT2488.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.376_583082423_NU phases=1 windings=3 buses=(MT1832.3.1 BT2523.1.0  BT2523.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.377_583212412_NU phases=1 windings=3 buses=(MT2047.3.1 BT2524.1.0  BT2524.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.303_384964006_NU phases=1 windings=3 buses=(MT2058.3.1 BT2450.1.0  BT2450.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.90_360298611_NU phases=1 windings=3 buses=(MT267.3.1 BT2237.1.0  BT2237.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(5 5 5) Taps=[1.0  1  1]  %loadloss=2.1 %noloadloss=0.7
+New Transformer.328_584597427_NU phases=3 windings=2 buses=(MT1779.1.2.3 BT2475.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.378_821932001_NU phases=1 windings=3 buses=(MT2072.3.1 BT2525.1.0  BT2525.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.339_848855616_NU phases=1 windings=3 buses=(MT226.3.1 BT2486.1.0  BT2486.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.332_387039341_UB phases=3 windings=2 buses=(MT115.1.2.3 BT2479.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(10 10) Taps=[1.0  1]  %loadloss=3.25 %noloadloss=0.85
+New Transformer.325_876626567_UB phases=3 windings=2 buses=(MT2079.1.2.3 BT2472.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.326_876629305_UB phases=3 windings=2 buses=(MT2082.1.2.3 BT2473.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.387_880276162_NU phases=1 windings=3 buses=(MT2086.3.1 BT2534.1.0  BT2534.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.306_881626393_NU phases=1 windings=3 buses=(MT647.3.1 BT2453.1.0  BT2453.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.307_881628162_NU phases=1 windings=3 buses=(MT648.3.1 BT2454.1.0  BT2454.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.308_881795446_NU phases=1 windings=3 buses=(MT2087.3.1 BT2455.1.0  BT2455.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.309_881795453_NU phases=1 windings=3 buses=(MT2088.3.1 BT2456.1.0  BT2456.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.311_881836869_NU phases=1 windings=3 buses=(MT2096.3.1 BT2458.1.0  BT2458.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.312_881857859_NU phases=1 windings=3 buses=(MT1897.3.1 BT2459.1.0  BT2459.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.313_882326863_NU phases=1 windings=3 buses=(MT1376.3.1 BT2460.1.0  BT2460.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.340_883223007_NU phases=3 windings=2 buses=(MT431.1.2.3 BT2487.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.382_886937186_NU phases=1 windings=3 buses=(MT440.3.1 BT2529.1.0  BT2529.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.333_889063804_NU phases=3 windings=2 buses=(MT309.1.2.3 BT2480.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.338_890170391_NU phases=1 windings=3 buses=(MT328.3.1 BT2485.1.0  BT2485.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(15 15 15) Taps=[1.0  1  1]  %loadloss=1.7667 %noloadloss=0.4333
+New Transformer.388_892014188_NU phases=1 windings=3 buses=(MT2104.3.1 BT2535.1.0  BT2535.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss=1.56 %noloadloss=0.36
+New Transformer.329_893682630_NU phases=3 windings=2 buses=(MT585.1.2.3 BT2476.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.305_897702988_NU phases=1 windings=3 buses=(MT433.2.3 BT2452.1.0  BT2452.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.349_907549594_NU phases=1 windings=3 buses=(MT218.3.1 BT2496.1.0  BT2496.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss=1.95 %noloadloss=0.5
+New Transformer.262_909153149_UB phases=3 windings=2 buses=(MT2110.1.2.3 BT2409.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(75 75) Taps=[1.0  1]  %loadloss=1.4667 %noloadloss=0.3933
+New Transformer.263_909153856_UB phases=3 windings=2 buses=(MT2111.1.2.3 BT2410.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.215_360301885_UB phases=3 windings=2 buses=(MT2114.1.2.3 BT2362.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.266_403907585_NU phases=1 windings=3 buses=(MT1855.3.1 BT2413.1.0  BT2413.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.390_926960019_NU phases=1 windings=3 buses=(MT1330.3.1 BT2537.1.0  BT2537.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.381_558088100_UB phases=3 windings=2 buses=(MT1548.1.2.3 BT2528.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(45 45) Taps=[1.0  1]  %loadloss=1.6667 %noloadloss=0.4333
+New Transformer.257_927357758_NU phases=1 windings=3 buses=(MT1999.3.1 BT2404.1.0  BT2404.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.258_927388351_NU phases=1 windings=3 buses=(MT1894.3.1 BT2405.1.0  BT2405.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.347_937424349_NU phases=1 windings=3 buses=(MT2139.3.1 BT2494.1.0  BT2494.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(10 10 10) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0
+New Transformer.366_946164286_NU phases=3 windings=2 buses=(MT2140.1.2.3 BT2513.1.2.3.0) Conns=(Delta wye)  kvs=(13.8 0.22)  kVas=(15 15) Taps=[1.0  1]  %loadloss=0.0 %noloadloss=0.0
+New Transformer.375_951315771_NU phases=1 windings=3 buses=(MT1809.3.1 BT2522.1.0  BT2522.0.2) Conns=(Delta wye wye)  kvs=(13.8 0.127 0.127)  kVas=(25 25 25) Taps=[1.0  1  1]  %loadloss= 0.0 %noloadloss= 0.0

@@ -1,0 +1,5 @@
+New Transformer.Reg387393400A phases=1 windings=2 buses=(MT1323.1.2 MT1830.1.2) Conns=(delta delta)  kvs=(13.8 13.8)  kVas=(4000 4000)  R=0.096 XHL=0.544  %loadloss=0.004 %noloadloss=0.003
+New Transformer.Reg387393400B phases=1 windings=2 buses=(MT1323.3.2 MT1830.3.2) Conns=(delta delta)  kvs=(13.8 13.8)  kVas=(4000 4000)  R=0.096 XHL=0.544  %loadloss=0.004 %noloadloss=0.003
+New RegControl.CReg387393400A Transformer=Reg387393400A winding=2 Vreg=103 band=2 ptratio=138 R=0.01 X=0.01
+New RegControl.CReg387393400B Transformer=Reg387393400B winding=2 Vreg=103 band=2 ptratio=138 R=0.01 X=0.01
+New Line.Jumper phases=1 Bus1=MT1323.2 MT1830.2 r0=1e-3 r1=1e-3 x0=0 x1=0 c0=0 c1=0

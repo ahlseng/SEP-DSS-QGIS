@@ -1,0 +1,3 @@
+New Circuit.807560002  basekv=13.8 Bus=ALIMMT2013 pu=1.000 phases=3 R1=0 X1=0.0001
+New Linecode.ideal nphases=3 baseFreq=60 R1=0.0001, X1=0.0001, units=km
+New Line.MTALIM Phases=3 Bus1=ALIMMT2013.1.2.3 Bus2=MT2013.1.2.3 Linecode=ideal Length=0.001 units=km

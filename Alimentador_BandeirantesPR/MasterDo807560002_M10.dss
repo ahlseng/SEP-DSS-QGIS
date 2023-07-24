@@ -1,0 +1,34 @@
+Clear
+Redirect  Barramento807560002.dss
+Redirect  Cabos.dss
+Redirect  CurvaCargaBT.dss
+Redirect  CurvaCargaMT.dss
+Redirect  SegmentosMT807560002.dss
+Redirect  TrafosMTBT807560002.dss
+Redirect  Regulador807560002.dss
+Redirect  CargaMT_Domingo807560002_M10.dss
+Redirect  SegmentosBT807560002.dss
+Redirect  CargaBT_Domingo807560002_M10.dss
+Redirect  CargaIP807560002.dss
+MakeBusList
+!set MarkRegulators =true
+!set Marktransformers =true
+!set Markcapacitors =true
+BusCoords Coordenadas807560002.csv
+Set voltagebases=[13.8 0.22 0.127 ]
+Calcvoltagebases
+New Energymeter.carga element=line.MTALIM, terminal=1
+!New monitor.MTALIM element=Line.MTALIM terminal=1 mode=1 ppolar=no
+set mode=daily
+set tolerance=0.0001
+set maxiterations=100
+Set maxcontroliter=30
+!Solve mode = direct
+!set Loadmult=1.5
+!Set Controlmode=off
+Solve
+Export unserved
+Export Summary
+Export meters
+Export voltage
+!plot profile phases=all
