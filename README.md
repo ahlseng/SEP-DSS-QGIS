@@ -13,4 +13,4 @@ Cargas de iluminação publica reajustadas.
 
 ![image](https://github.com/ahlseng/SEP-DSS-QGIS/assets/93260540/1e1e09c4-b79b-4964-b8cb-5e2ec6b5aa74)
 
-**Informações sobre o estudo foram omitidas por questões legais: ART n.º 1720220345817.**
+**Informações sobre o estudo foram omitidas por questões legais**
